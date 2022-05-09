@@ -1,25 +1,22 @@
 # Base configs
-baseurl: "https://photography.rampatra.com"
+baseurl: "https://photos.alhuff.com"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-46465113-2"
+google_analytics: ""
 
 # UI configs
-title: "Photography by Ram Patra"
+title: "Photos | Austin Lynn Huffman"
 subtitle: "See the world through my eyes!"
-author: "Ram Patra"
+author: "Austin Lynn Huffman"
 header:
- title: "Photography"
- subtitle: "by Ram Patra"
+ title: "Photos"
+ subtitle: "by Austin Lynn Huffman"
 footer:
- name: "Hey there, my name is Ram"
- bio: "I am a developer and a tech aficionado from India. Love making teeny tiny apps solving tiny problems in life and now learning photography."
- github: "Want a website like this for yourself for free? Just <a href=\"https://github.com/ramswaroop/photography\">fork me on github</a> ;)"
+ name: "Hey there, my name is Austin"
+ bio: "I'm an info tech student who loves cars and photography!"
+ github: ""
 web_design: "AJ"
 social_urls:
-  facebook: "https://www.facebook.com/ramswaroop"
-  twitter: "https://www.twitter.com/ram__patra"
-  instagram: "https://www.instagram.com/ram_patra"
-  dribbble: "https://dribbble.com/rampatra"
-  linkedin: "https://in.linkedin.com/in/ram-patra"
-  github: "https://www.github.com/rampatra"
+  instagram: "https://www.instagram.com/alhuff_"
+  linkedin: "https://in.linkedin.com/in/austinlynnhuffman"
+  github: "https://www.github.com/jellayy"
