@@ -253,11 +253,12 @@
                         $image.trigger('click');
                     });
 
-            // EXIF data					
-            EXIF.getData($image_img[0], function () {
-                exifDatas[$image_img.data('name')] = getExifDataMarkup(this);
-            });
-
+            // Fill EXIF data when images are loaded to avoid no data showing up on first click
+            $image_img[0].addEventListener("load", function() {
+                EXIF.getData($image_img[0], function() {
+                    exifDatas[$image_img.data('name')] = getExifDataMarkup(this);
+                })
+            })
         });
 
         // Poptrox.
