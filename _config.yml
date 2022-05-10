@@ -2,7 +2,6 @@
 baseurl: "https://photos.alhuff.com"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: ""
 
 # UI configs
 title: "Photos | Austin Lynn Huffman"
@@ -14,7 +13,6 @@ header:
 footer:
  name: "Hey there, my name is Austin"
  bio: "I'm an info tech student who loves cars and photography!"
- github: "test again"
 web_design: "AJ"
 social_urls:
   instagram: "https://www.instagram.com/alhuff_"
